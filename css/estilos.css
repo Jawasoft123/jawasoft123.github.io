@@ -14,8 +14,7 @@ footer {
 	background: #f7f2f2;
 }
 
-.navbar-nav > li.active {
-	background: #aaffae;
+.navbar-nav > li.active {	
 	font-weight: bold;
 }
 

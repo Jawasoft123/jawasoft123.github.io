@@ -11,28 +11,33 @@
 
 	<header>
 		<nav class="navbar navbar-expand-lg navbar-light fixed-top py-0">
-			<div class="navbar-brand">
-				<img src="img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+			<div class="container">
+				<div class="navbar-brand">
+					<img src="img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
 					Jawa
-			</div>
-			<div class="collapse navbar-collapse py-0">
-				<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-					<li class="nav-item">
-						<a class="nav-link py-3" href="/index.html">Inicio</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link py-3" href="/productos.html">Productos</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link py-3" href="/media.html">Media</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link py-3 disabled" href="#">Desarrolladores</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link py-3" href="/autores.html">Autores</a>
-					</li>
-				</ul>
+				</div>
+				<button class="navbar-toggler" data-toggle="collapse" data-target="#js-menu" aria-controls="js-menu" aria-expanded="false" aria-label="Menu">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse py-0" id="js-menu">
+					<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+						<li class="nav-item">
+							<a class="nav-link py-3" href="/index.html">Inicio</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link py-3" href="/productos.html">Productos</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link py-3" href="/media.html">Media</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link py-3 disabled" href="#">Desarrolladores</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link py-3" href="/autores.html">Autores</a>
+						</li>
+					</ul>
+				</div>
 			</div>
 		</nav>
 	</header>
@@ -41,9 +46,16 @@
 		<div class="container">
 			<div class="row mt-4"></div>
 			<section class="row d-flex align-items-center" id="producto_integrador">
-				<div class="col-5">
+				<div class="col-lg-5 col-12">
 					<h2>Jawa integrador 1.0</h2>
 					<p class="text-justify">Jawa es un sistema de facturación electrónica que permite integrar un sistema externo de facturación que funcione bajo las modalidades de facturacion por computador o sistema POS con el modelo de facturación electrónica de la DIAN, por medio de archivos CSV. En él se pueden ejecutar tareas comunes tales como la generación y envío de documentos electrónicos a la DIAN según la normatividad de la misma, envío de documentos electrónicos al adquiriente y la consulta de los estados de los documentos enviados tanto a la DIAN como al adquiriente.</p>
+				</div>
+				<div class="col-lg-7 col-12">
+					<img src="img/Integrador.png" class="d-block w-100" alt="...">
+				</div>
+			</section>
+			<section class="row mx-0 mt-0 mb-1 px-0">
+				<div class="col-12 m-0 p-0">
 					<!-- Button trigger modal -->
 					<button type="button" class="btn btn-success" data-toggle="modal" data-target="#productModal">
 						Descargar
@@ -51,16 +63,19 @@
 					<a href="./media.html#Jawa" class="btn btn-success">
 						Media
 					</a>
-					
-				</div>
-				<div class="col-7">
-					<img src="img/Integrador.png" class="d-block w-100" alt="...">
 				</div>
 			</section>
 			<section class="row d-flex align-items-center">
-				<div class="col-5" id="producto_generador">
+				<div class="col-lg-5 col-12" id="producto_generador">
 					<h2>Generador de archivos CSV 1.0</h2>
 					<p class="text-justify">Esta herramienta permite generar un documento electrónico (Factura - Nota crédito - Nota débito) con todos sus grupos de información. Para así lograr exportar el documento en formato CSV y procesarlo directamente en Jawa, sin necesidad de depender de un sistema externo de facturación.</p>
+				</div>
+				<div class="col-lg-7 col-12">
+					<img src="img/Generador.png" class="d-block w-100" alt="...">
+				</div>
+			</section>
+			<section class="row mx-0 mt-0 mb-1 px-0">
+				<div class="col-12 m-0 p-0">
 					<!-- Button trigger modal -->
 					<button type="button" class="btn btn-success" data-toggle="modal" data-target="#productModal">
 						Descargar
@@ -68,13 +83,8 @@
 					<a href="./media.html#Generador" class="btn btn-success">
 						Media
 					</a>
-					
 				</div>
-				<div class="col-7">
-					<img src="img/Generador.png" class="d-block w-100" alt="...">
-				</div>
-			</section>			
-
+			</section>
 			<div class="row my-2"></div>
 
 		</div>

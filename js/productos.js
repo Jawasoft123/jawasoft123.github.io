@@ -4,11 +4,9 @@ const buttonDownloadGenerator = document.getElementById('buttonDownloadGenerator
 
 jawaCheck.addEventListener('change', function() {
 	if (this.checked) {		
-		document.getElementById('buttonJawaWindows').disabled = false;
-		document.getElementById('buttonJawaLinux').disabled = false;		
+		document.getElementById('buttonJawa').classList.remove("disabled");	
 	} else {		
-		document.getElementById('buttonJawaWindows').disabled = true;
-		document.getElementById('buttonJawaLinux').disabled = true;
+		document.getElementById('buttonJawa').classList.add("disabled");	
 	}
 });
 
@@ -35,8 +33,3 @@ async function loadFileAndPrintToConsole(url) {
 		console.error(err);
 	}
 }
-
-
-
-
-

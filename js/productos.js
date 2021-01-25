@@ -29,7 +29,7 @@ buttonDownloadJawa.addEventListener('click', function(){
 buttonDownloadGenerator.addEventListener('click', function(){	
 	var licenseGenerador = loadFileAndPrintToConsole('https://jawasoft123.github.io/files/generatorLicense.txt');
 	licenseGenerador.then(value=>{
-		document.getElementById('modalGenerator').textContent = value;
+		document.getElementById('modalGenerator').innerHTML = value;
 	})
 });
 

@@ -22,7 +22,7 @@ generatorCheck.addEventListener('change', function() {
 buttonDownloadJawa.addEventListener('click', function(){	
 	var licenseJawa = loadFileAndPrintToConsole('https://jawasoft123.github.io/files/jawaLicense.txt');
 	licenseJawa.then(value=>{
-		document.getElementById('modalJawa').textContent = value;
+		document.getElementById('modalJawa').innerHTML = value;
 	})
 });
 

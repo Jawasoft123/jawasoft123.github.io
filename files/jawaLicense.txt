@@ -1,63 +1,10 @@
 <b>Licencia Jawa 1.0</b>
 <br>
 <br>
-Este presente documento establece las condiciones mediante las cuales se regirá el uso y la distribución del aplicativo Jawa 1.0 (en adelante la aplicación), la cual es desarrollada por DANIEL ANTONIO MORENO RAMIREZ y JAIME SANTANA SANTANA en colaboración con el grupo de investigación ARQUISOFT perteneciente a la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS.
+<p>Este presente documento establece las condiciones mediante las cuales se regirá el uso y la distribución del aplicativo Jawa 1.0 (en adelante la aplicación), la cual es desarrollada por DANIEL ANTONIO MORENO RAMIREZ y JAIME SANTANA SANTANA en colaboración con el grupo de investigación ARQUISOFT perteneciente a la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS.</p>
 <br>
-El usuario se compromete a leer los Términos y Condiciones aquí establecidos, previamente a la descarga de la aplicación, por tanto, en caso de realizar la instalación se entiende que cuenta con el conocimiento integral de este documento y la consecuente aceptación de la totalidad de sus estipulaciones.
+<p>El usuario se compromete a leer los Términos y Condiciones aquí establecidos, previamente a la descarga de la aplicación, por tanto, en caso de realizar la instalación se entiende que cuenta con el conocimiento integral de este documento y la consecuente aceptación de la totalidad de sus estipulaciones.</p>
 <br>
 <b>ALCANCE Y USO</b>
 <br>
-El usuario de la aplicación entiende y acepta que no obstante es otorgada por DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA y el grupo de investigación ARQUISOFT de la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS.
-<br>
-La aplicación se pondrá a disposición del CLIENTE y permitirá las siguientes acciones:
-<br>
-* Integrar un sistema externo de facturación con la facturación electrónica de la DIAN por medio de archivos CSV.
-* Generar y enviar documentos electrónicos (Factura - Nota crédito - Nota débito) a los sistemas informáticos de facturación electrónica de la DIAN, según la normatividad expresa en el Anexo técnico de Factura Electrónica de Venta versión 1.7-2020 bajo la resolución No 000042.
-* Consultar los estados de los documentos electrónicos enviados a la DIAN y al adquiriente.
-* Generar y enviar documentos electrónicos (Factura - Nota débito - Nota crédito - AttachedDocument) al adquiriente por medio del correo electrónico.
-* Generación y administración de usuarios dentro de la aplicación.
-<br>
-<b>REQUISITOS DE USO</b>
-<br>
-El usuario deberá contar con un dispostivo que opere bajo el sistema operativo Windows x 64 o Linux, cualquiera de estos con acceso a internet, ambos seguros y confiables. La aplicación y sus autores no se hacen responsables por la seguridad de los equipos ante el uso indebido o modificación del contenido de la aplicación.
-<br>
-La seguridad y respaldo de los archivos generados por la aplicación son responsabilidad del usuario, puesto que la aplicación no tiene conexión directa con sistemas propios a los autores.
-<br>
-<b>OBLIGACIONES DE LOS USUARIOS</b>
-<br>
-El usuario se obliga a usar la aplicación y los contenidos encontrados en ella de una manera diligente, correcta, lícita y en especial, se compromete a NO realizar las conductas descritas a continuación:
-<br>
-* Utilizar los contenidos de forma, con fines o efectos contrarios a la ley, a la moral y a las buenas costumbres generalmente aceptadas o al orden público.
-* Reproducir, copiar, representar, utilizar, distribuir, transformar o modificar los contenidos de la aplicación, por cualquier procedimiento o sobre cualquier soporte, total o parcial, o permitir el acceso del público a través de cualquier modalidad de comunicación pública.
-* Utilizar los contenidos de cualquier manera que entrañen un riesgo de daño o inutilización de la aplicación.
-* Suprimir, eludir o manipular el derecho de autor y demás datos identificativos de los derechos de autor incorporados a los contenidos.
-* Emplear los contenidos y, en particular, la información de cualquier clase obtenida a través de la aplicación para distribuir, transmitir, remitir, modificar, rehusar o reportar la publicidad o los contenidos de esta con fines de venta directa o con cualquier otra clase de finalidad comercial.
-* Permitir que terceros ajenos a usted usen la aplicación.
-* Utilizar la aplicación y los contenidos con fines lícitos y/o ilícitos, contrarios a lo establecido en estos Términos y Condiciones, o al uso mismo de la aplicación, que sean lesivos de los derechos e intereses de terceros, o que de cualquier forma puedan dañar, inutilizar, sobrecargar o deteriorar la aplicación y los contenidos o impedir la normal utilización o disfrute de esta y de los contenidos por parte de los usuarios.
-<br>
-<b>PROPIEDAD INTELECTUAL</b>
-<br>
-Todo el material informático, gráfico, publicitario, fotográfico, de multimedia, audiovisual y de diseño, así como todos los contenidos, textos, y bases de datos puestos a su disposición en esta aplicación están protegidos por derechos de autor y/o propiedad intelectual cuyos titulares son DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA y el grupo de investigación ARQUISOFT de la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS. Todos los contenidos en la aplicación están protegidos por las normas sobre derecho de autor y por todas las normas nacionales e internacionales que le sean aplicables.
-<br>
-Exceptuando lo expresamente estipulado en estos Términos y Condiciones, queda prohibido todo acto de copia, reproducción, modificación, creación de trabajos derivados, venta o distribución, exhibición de los contenidos de la aplicación, de manera o por medio alguno, incluyendo, más no limitado a, medios electrónicos, mecánicos, de fotocopiado, de grabación o de cualquier otra indole, sin el permiso previo y por escrito de DANIEL ANTONIO MORENO RAMIREZ y JAIME SANTANA SANTANA.
-<br>
-<b>LICENCIA PARA COPIAS DE USO PERSONAL</b>
-<br>
-Usted podrá leer, visualizar y descargar el material del producto. Ninguna parte de la aplicación podrá ser reproducida o transmitida o almacenada en servicios ajenos al sitio web oficial del prodcuto www.jawasoft123.github.io 
-<br>
-<b>USO DE INFORMACIÓN Y PRIVACIDAD</b>
-<br>
-Al ser un software de uso propio y no contar con una conexión directa a sitios web o de almacenamiento externos, no se recopila o trata la información generada o suministrada dentro de la aplicación. Resaltando que toda la información sera almacenada en los propios medio del usuario.
-<br>
-<b>RESPONSABILIDAD DE LOS AUTORES</b>
-<br>
-DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA, ARQUISOFT y la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS procurará garantizar disponibilidad y continuidad o buen funcionamiento de la aplicación. Al ser un software no lucrativo cualquier inconveniente que afecte las funciones propuestas por la aplicación e involucren al usuario no se asumirá responsabilidad legal por los daños causados, estos serán responsabilidad del usuario.
-<br>
-Se recomienda al usuario tomar medidas adecuadas y actuar diligentemente al momento de acceder a la aplicación, como por ejemplo, contar con programas de protección, antivirus, para manejo de malware, spyware y herramientas similares.
-<br>
-Los autores no serán responsable por: 
-<br>
-* Fuerza mayor o caso fortuito.
-* Por la pérdida, extravío o hurto del dispositivo en donde opera la aplicación que implique el acceso de terceros a la aplicación y su respectiva información.
-* Por errores en la digitación o accesos por parte del cliente.
-* Por los perjuicios, lucro cesante, daño emergente, morales, y en general sumas a cargo de la aplicación, por los retrasos, no procesamiento de información o fallo de la aplicación.
+<p>El usuario de la aplicación entiende y acepta que no obstante es otorgada por DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA y el grupo de investigación ARQUISOFT de la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS.</p>

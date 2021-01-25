@@ -1,4 +1,5 @@
 const jawaCheck = document.getElementById('jawaCheck');
+const generatorCheck = document.getElementById('generatorCheck');
 const buttonDownloadJawa = document.getElementById('buttonDownloadJawa');
 const buttonDownloadGenerator = document.getElementById('buttonDownloadGenerator');
 
@@ -10,17 +11,25 @@ jawaCheck.addEventListener('change', function() {
 	}
 });
 
-buttonDownloadJawa.addEventListener('click', function(){
+generatorCheck.addEventListener('change', function() {
+	if (this.checked) {		
+		document.getElementById('buttonGenerator').classList.remove("disabled");	
+	} else {		
+		document.getElementById('buttonGenerator').classList.add("disabled");	
+	}
+});
+
+buttonDownloadJawa.addEventListener('click', function(){	
 	var licenseJawa = loadFileAndPrintToConsole('https://jawasoft123.github.io/files/jawaLicense.txt');
 	licenseJawa.then(value=>{
 		document.getElementById('modalJawa').textContent = value;
 	})
 });
 
-buttonDownloadGenerator.addEventListener('click', function(){
-	var licenseJawa = loadFileAndPrintToConsole('https://jawasoft123.github.io/files/generatorLicense.txt');
-	licenseJawa.then(value=>{
-		document.getElementById('modalJawa').textContent = value;
+buttonDownloadGenerator.addEventListener('click', function(){	
+	var licenseGenerador = loadFileAndPrintToConsole('https://jawasoft123.github.io/files/generatorLicense.txt');
+	licenseGenerador.then(value=>{
+		document.getElementById('modalGenerator').textContent = value;
 	})
 });
 

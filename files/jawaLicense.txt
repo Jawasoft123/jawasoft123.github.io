@@ -1,10 +1,44 @@
-<b>Licencia Jawa 1.0</b>
-<br>
-<br>
-<p>Este presente documento establece las condiciones mediante las cuales se regirá el uso y la distribución del aplicativo Jawa 1.0 (en adelante la aplicación), la cual es desarrollada por DANIEL ANTONIO MORENO RAMIREZ y JAIME SANTANA SANTANA en colaboración con el grupo de investigación ARQUISOFT perteneciente a la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS.</p>
-<br>
-<p>El usuario se compromete a leer los Términos y Condiciones aquí establecidos, previamente a la descarga de la aplicación, por tanto, en caso de realizar la instalación se entiende que cuenta con el conocimiento integral de este documento y la consecuente aceptación de la totalidad de sus estipulaciones.</p>
-<br>
-<b>ALCANCE Y USO</b>
-<br>
-<p>El usuario de la aplicación entiende y acepta que no obstante es otorgada por DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA y el grupo de investigación ARQUISOFT de la UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS.</p>
+<p><strong>LICENCIA Jawa 1.0</strong></p>
+<p>Este presente documento establece las condiciones mediante las cuales se regir&aacute; el uso y la distribuci&oacute;n del aplicativo Jawa 1.0 (en adelante la aplicaci&oacute;n), la cual es desarrollada por DANIEL ANTONIO MORENO RAMIREZ y JAIME SANTANA SANTANA en colaboraci&oacute;n con el grupo de investigaci&oacute;n ARQUISOFT perteneciente a la UNIVERSIDAD DISTRITAL FRANCISCO JOS&Eacute; DE CALDAS.</p>
+<p>El usuario se compromete a leer los T&eacute;rminos y Condiciones aqu&iacute; establecidos, previamente a la descarga de la aplicaci&oacute;n, por tanto, en caso de realizar la instalaci&oacute;n se entiende que cuenta con el conocimiento integral de este documento y la consecuente aceptaci&oacute;n de la totalidad de sus estipulaciones.</p>
+<p><strong>Alcance y uso</strong></p>
+<p>El usuario de la aplicaci&oacute;n entiende y acepta que no obstante es otorgada por DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA y el grupo de investigaci&oacute;n ARQUISOFT de la UNIVERSIDAD DISTRITAL FRANCISCO JOS&Eacute; DE CALDAS.</p>
+<p>La aplicaci&oacute;n se pondr&aacute; a disposici&oacute;n del CLIENTE y permitir&aacute; las siguientes acciones:</p>
+<ul>
+<li>Integrar un sistema externo de facturaci&oacute;n con la facturaci&oacute;n electr&oacute;nica de la DIAN por medio de archivos CSV.</li>
+<li>Generar y enviar documentos electr&oacute;nicos (Factura - Nota cr&eacute;dito - Nota d&eacute;bito) a los sistemas inform&aacute;ticos de facturaci&oacute;n electr&oacute;nica de la DIAN, seg&uacute;n la normatividad expresa en el Anexo t&eacute;cnico de Factura Electr&oacute;nica de Venta versi&oacute;n 1.7-2020 bajo la resoluci&oacute;n No 000042.</li>
+<li>Consultar los estados de los documentos electr&oacute;nicos enviados a la DIAN y al adquiriente.</li>
+<li>Generar y enviar documentos electr&oacute;nicos (Factura - Nota d&eacute;bito - Nota cr&eacute;dito - AttachedDocument) al adquiriente por medio del correo electr&oacute;nico.</li>
+<li>Generaci&oacute;n y administraci&oacute;n de usuarios dentro de la aplicaci&oacute;n.</li>
+</ul>
+<p><strong>Requisitos de uso</strong></p>
+<p>El usuario deber&aacute; contar con un dispostivo que opere bajo el sistema operativo Windows x 64 o Linux, cualquiera de estos con acceso a internet, ambos seguros y confiables. La aplicaci&oacute;n y sus autores no se hacen responsables por la seguridad de los equipos ante el uso indebido o modificaci&oacute;n del contenido de la aplicaci&oacute;n.</p>
+<p>La seguridad y respaldo de los archivos generados por la aplicaci&oacute;n son responsabilidad del usuario, puesto que la aplicaci&oacute;n no tiene conexi&oacute;n directa con sistemas propios a los autores.</p>
+<p><strong>Obligaciones de los usuarios</strong></p>
+<p>El usuario se obliga a usar la aplicaci&oacute;n y los contenidos encontrados en ella de una manera diligente, correcta, l&iacute;cita y en especial, se compromete a NO realizar las conductas descritas a continuaci&oacute;n:</p>
+<ul>
+<li>Utilizar los contenidos de forma, con fines o efectos contrarios a la ley, a la moral y a las buenas costumbres generalmente aceptadas o al orden p&uacute;blico.</li>
+<li>Reproducir, copiar, representar, utilizar, distribuir, transformar o modificar los contenidos de la aplicaci&oacute;n, por cualquier procedimiento o sobre cualquier soporte, total o parcial, o permitir el acceso del p&uacute;blico a trav&eacute;s de cualquier modalidad de comunicaci&oacute;n p&uacute;blica.</li>
+<li>Utilizar los contenidos de cualquier manera que entra&ntilde;en un riesgo de da&ntilde;o o inutilizaci&oacute;n de la aplicaci&oacute;n.<br />* Suprimir, eludir o manipular el derecho de autor y dem&aacute;s datos identificativos de los derechos de autor incorporados a los contenidos.</li>
+<li>Emplear los contenidos y, en particular, la informaci&oacute;n de cualquier clase obtenida a trav&eacute;s de la aplicaci&oacute;n para distribuir, transmitir, remitir, modificar, rehusar o reportar la publicidad o los contenidos de esta con fines de venta directa o con cualquier otra clase de finalidad comercial.</li>
+<li>Permitir que terceros ajenos a usted usen la aplicaci&oacute;n.</li>
+<li>Utilizar la aplicaci&oacute;n y los contenidos con fines l&iacute;citos y/o il&iacute;citos, contrarios a lo establecido en estos T&eacute;rminos y Condiciones, o al uso mismo de la aplicaci&oacute;n, que sean lesivos de los derechos e intereses de terceros, o que de cualquier forma puedan da&ntilde;ar, inutilizar, sobrecargar o deteriorar la aplicaci&oacute;n y los contenidos o impedir la normal utilizaci&oacute;n o disfrute de esta y de los contenidos por parte de los usuarios.</li>
+</ul>
+<p><strong>Propiedad intelectual</strong></p>
+<p>Todo el material inform&aacute;tico, gr&aacute;fico, publicitario, fotogr&aacute;fico, de multimedia, audiovisual y de dise&ntilde;o, as&iacute; como todos los contenidos, textos, y bases de datos puestos a su disposici&oacute;n en esta aplicaci&oacute;n est&aacute;n protegidos por derechos de autor y/o propiedad intelectual cuyos titulares son DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA y el grupo de investigaci&oacute;n ARQUISOFT de la UNIVERSIDAD DISTRITAL FRANCISCO JOS&Eacute; DE CALDAS. Todos los contenidos en la aplicaci&oacute;n est&aacute;n protegidos por las normas sobre derecho de autor y por todas las normas nacionales e internacionales que le sean aplicables.</p>
+<p>Exceptuando lo expresamente estipulado en estos T&eacute;rminos y Condiciones, queda prohibido todo acto de copia, reproducci&oacute;n, modificaci&oacute;n, creaci&oacute;n de trabajos derivados, venta o distribuci&oacute;n, exhibici&oacute;n de los contenidos de la aplicaci&oacute;n, de manera o por medio alguno, incluyendo, m&aacute;s no limitado a, medios electr&oacute;nicos, mec&aacute;nicos, de fotocopiado, de grabaci&oacute;n o de cualquier otra indole, sin el permiso previo y por escrito de DANIEL ANTONIO MORENO RAMIREZ y JAIME SANTANA SANTANA.</p>
+<p><strong>Licencia para copias de uso personal</strong></p>
+<p>Usted podr&aacute; leer, visualizar y descargar el material del producto.</p>
+<p>Ninguna parte de la aplicaci&oacute;n podr&aacute; ser reproducida o transmitida o almacenada en servicios ajenos al sitio web oficial del prodcuto www.jawasoft123.github.io</p>
+<p><strong>Uso de informaci&oacute;n y privacidad</strong></p>
+<p>Al ser un software de uso propio y no contar con una conexi&oacute;n directa a sitios web o de almacenamiento externos, no se recopila o trata la informaci&oacute;n generada o suministrada dentro de la aplicaci&oacute;n. Resaltando que toda la informaci&oacute;n sera almacenada en los propios medio del usuario.</p>
+<p><strong>Responsabilidad de los autores</strong></p>
+<p>DANIEL ANTONIO MORENO RAMIREZ, JAIME SANTANA SANTANA, ARQUISOFT y la UNIVERSIDAD DISTRITAL FRANCISCO JOS&Eacute; DE CALDAS procurar&aacute; garantizar disponibilidad y continuidad o buen funcionamiento de la aplicaci&oacute;n. Al ser un software no lucrativo cualquier inconveniente que afecte las funciones propuestas por la aplicaci&oacute;n e involucren al usuario no se asumir&aacute; responsabilidad legal por los da&ntilde;os causados, estos ser&aacute;n responsabilidad del usuario.</p>
+<p>Se recomienda al usuario tomar medidas adecuadas y actuar diligentemente al momento de acceder a la aplicaci&oacute;n, como por ejemplo, contar con programas de protecci&oacute;n, antivirus, para manejo de malware, spyware y herramientas similares.</p>
+<p>Los autores no ser&aacute;n responsable por:</p>
+<ul>
+<li>Fuerza mayor o caso fortuito.</li>
+<li>Por la p&eacute;rdida, extrav&iacute;o o hurto del dispositivo en donde opera la aplicaci&oacute;n que implique el acceso de terceros a la aplicaci&oacute;n y su respectiva informaci&oacute;n.</li>
+<li>Por errores en la digitaci&oacute;n o accesos por parte del cliente.</li>
+<li>Por los perjuicios, lucro cesante, da&ntilde;o emergente, morales, y en general sumas a cargo de la aplicaci&oacute;n, por los retrasos, no procesamiento de informaci&oacute;n o fallo de la aplicaci&oacute;n.</li>
+</ul>
